@@ -1,3 +1,3 @@
-module github.com/kymahi/PaperMod/blob/master/go.mod
+module github.com/kymahi/PaperMod
 
 go 1.12
